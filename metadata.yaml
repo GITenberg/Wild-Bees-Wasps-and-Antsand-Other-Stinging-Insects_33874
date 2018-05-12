@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36763
     wikipedia: http://en.wikipedia.org/wiki/Edward_Saunders_%28entomologist%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33874#Wild-Bees-Wasps-and-Antsand-Other-Stinging-Insects
 gutenberg_bookshelf:
 - Animal
 - Animals-Wild-Insects
