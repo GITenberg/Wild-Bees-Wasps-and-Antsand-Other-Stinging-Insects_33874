@@ -1,0 +1,37 @@
+_repo: Wild-Bees-Wasps-and-Antsand-Other-Stinging-Insects_33874
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Saunders, Constance A.
+    gutenberg_agent_id: '36765'
+    url: http://www.gutenberg.org/2009/agents/36765
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Saunders, Edward
+    birthdate: 1848
+    deathdate: 1910
+    gutenberg_agent_id: '36763'
+    url: http://www.gutenberg.org/2009/agents/36763
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Saunders_%28entomologist%29
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Insects
+gutenberg_issued: '2010-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33874'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ants'
+- !lcsh 'Wasps'
+- !lcsh 'Bees'
+- !lcc 'QL'
+title: Wild Bees, Wasps and Ants and Other Stinging Insects
+url: http://www.gutenberg.org/ebooks/33874
